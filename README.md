@@ -1,3 +1,5 @@
+<img loading="lazy" class="alignnone" src="https://editor.analyticsvidhya.com/uploads/33978word-cloud-679937_1280.png" alt="word cloud image">
+
 # Word Cloud v2
 
 ## Description
