@@ -1,4 +1,4 @@
-<img loading="lazy" class="aling:center" src="https://drive.google.com/uc?export=view&id=1k0bjQaJU0bdenS1Lo66-dbHlhrVQipDo" alt="word cloud image">
+<img class="aling:center" src="wordcloud_header.png" alt="word cloud image">
 
 # Word Cloud v2
 
