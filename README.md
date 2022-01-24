@@ -11,13 +11,17 @@ We are developing a new version of Word Cloud powered by Machine Learning to ach
 - Add a function for white/black listing words
 
 ## Milestones
+
 ### Release 0.1
-- Create a baseline version of WC2 that use TF-ID for choosing the words
+- Initial version for testing WordCloud library only
 
 ### Release 0.2
-- Add ML pre-trained model based on Bert to extract meanful correlations
+- Create a baseline version of WC2 that use TF-ID for choosing the words
 
 ### Release 0.3
+- Add ML pre-trained model based on Bert to extract meanful correlations
+
+### Release 0.4
 - Add white/black listing functionalites
 
 ### Release 1.0
