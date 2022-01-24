@@ -1,4 +1,4 @@
-<img loading="lazy" class="alignnone" src="https://editor.analyticsvidhya.com/uploads/33978word-cloud-679937_1280.png" alt="word cloud image">
+<img loading="lazy" class="aling:center" src="https://drive.google.com/uc?export=view&id=1k0bjQaJU0bdenS1Lo66-dbHlhrVQipDo" alt="word cloud image">
 
 # Word Cloud v2
 
