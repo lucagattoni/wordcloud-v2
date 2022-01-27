@@ -13,10 +13,10 @@ We are developing a new version of Word Cloud powered by Machine Learning to ach
 ## Milestones
 
 ### Release 0.1
-- <s>Initial version for testing WordCloud library only</s>
+- <s>Initial version for testing WordCloud library only</s> DONE!
 
 ### Release 0.2
-- <s>Create a baseline version of WC2 that use TF-ID for choosing the words</s>
+- <s>Create a baseline version of WC2 that use TF-ID for choosing the words</s> DONE!
 
 ### Release 0.3
 - Add ML pre-trained model based on Bert to extract meanful correlations
