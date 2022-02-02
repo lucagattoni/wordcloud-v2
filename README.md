@@ -16,10 +16,10 @@ We are developing a new version of Word Cloud powered by Machine Learning to ach
 - [X] Initial version for testing WordCloud library only
 
 ### Release 0.2
-- [X] Create a [baseline version of WC2](../blob/main/wordcloud-test1.ipynb) that use TF-ID for choosing the words
+- [X] Create a [baseline version of WC2](wordcloud-test1.ipynb) that use TF-ID for choosing the words
 
 ### Release 0.3
-- [X] Add ML [pre-trained model](../blob/main/KeyBERT_test1.ipynb) based on Bert to extract meanful correlations
+- [X] Add ML [pre-trained model](KeyBERT_test1.ipynb) based on Bert to extract meanful correlations
 
 ### Release 0.4
 - [ ] Refine the model
