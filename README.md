@@ -23,8 +23,9 @@ We are developing a new version of Word Cloud powered by Machine Learning to ach
 
 ### Release 0.4
 - [ ] Refine the model
-- [ ] Add stemming
-- [ ] white/black listing functionalites
+- [ ] Keywords suggestion (provide the model which are the important topics to pay attention to)
+- [ ] Add stemming (base vartiation of a word)
+- [ ] Word black list (manually provide which words are not to be listed)
 
 ### Release 0.5
 - [ ] API interface
