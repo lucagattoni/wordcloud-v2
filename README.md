@@ -16,7 +16,7 @@ We are developing a new version of Word Cloud powered by Machine Learning to ach
 - [X] Initial version for testing WordCloud library only
 
 ### Release 0.2
-- [X]Create a baseline version of WC2 that use TF-ID for choosing the words
+- [X] Create a baseline version of WC2 that use TF-ID for choosing the words
 
 ### Release 0.3
 - [X] Add ML pre-trained model based on Bert to extract meanful correlations
@@ -27,4 +27,4 @@ We are developing a new version of Word Cloud powered by Machine Learning to ach
 - [ ] white/black listing functionalites
 
 ### Release 1.0
-- First official release
+- [ ] First official release
