@@ -13,16 +13,18 @@ We are developing a new version of Word Cloud powered by Machine Learning to ach
 ## Milestones
 
 ### Release 0.1
-- <s>Initial version for testing WordCloud library only</s> DONE!
+- [X] Initial version for testing WordCloud library only
 
 ### Release 0.2
-- <s>Create a baseline version of WC2 that use TF-ID for choosing the words</s> DONE!
+- [X]Create a baseline version of WC2 that use TF-ID for choosing the words
 
 ### Release 0.3
-- Add ML pre-trained model based on Bert to extract meanful correlations
+- [X] Add ML pre-trained model based on Bert to extract meanful correlations
 
 ### Release 0.4
-- Add white/black listing functionalites
+- [ ] Refine the model
+- [ ] Add stemming
+- [ ] white/black listing functionalites
 
 ### Release 1.0
 - First official release
