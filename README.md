@@ -26,5 +26,13 @@ We are developing a new version of Word Cloud powered by Machine Learning to ach
 - [ ] Add stemming
 - [ ] white/black listing functionalites
 
+### Release 0.5
+- [ ] API interface
+
 ### Release 1.0
 - [ ] First official release
+
+## Future features
+
+- [ ] Docker implementation
+- [ ] Admin GUI interface
