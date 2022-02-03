@@ -38,4 +38,3 @@ We are developing a new version of Word Cloud powered by Machine Learning to ach
 - [ ] Docker implementation
 - [ ] Admin GUI interface
 
-
